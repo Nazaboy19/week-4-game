@@ -1,1 +1,13 @@
-style.css
+#CrystalC{
+	h1:#000000;
+}
+
+#wrapper{
+	background-color:#FF8C00;
+	float: left;
+}
+
+#wrapperbody{
+	background-color:#FFEBCD;
+	float: left;
+}
