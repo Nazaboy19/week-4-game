@@ -1,5 +1,13 @@
-#CrystalC{
-	h1:#000000;
+ 
+ h1 { font-family: 'Slabo 27px', serif; font-weight: 400; }
+
+body {
+	color:#00FFFF;
+}
+
+.CrystalC{
+	h1:#0000FF;
+	float: left;
 }
 
 #wrapper{
@@ -11,3 +19,6 @@
 	background-color:#FFEBCD;
 	float: left;
 }
+
+
+
